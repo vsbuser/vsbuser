@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 👋 About Me
+## About Me
 
 Aspiring Data Scientist with 8+ years in the hospitality industry.  
 Skilled in communication, team leadership, and process optimization.  
